@@ -3,7 +3,7 @@ name: WeChatDiary
 on:
   schedule:
     - cron: '*/5 * * * *'
-    - cron: '5 2 * * *'
+    - cron: '14 2 * * *'
 
 jobs:
   send_message:
