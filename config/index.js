@@ -6,16 +6,16 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "",
+  APP_ID: "wxc026e241d9f24a04",
 
   // 微信公众号的appsecret
-  APP_SECRET: "",
+  APP_SECRET: "01cf3d7cdf698a3ff8f61acf7c9678fc",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "",
+  TEMPLATE_ID: "4WODhwExP50JZVL0SpjNOAZMv_owhZIF5QH8uE1Af2Q",
 
   // 天行API的key
-  TXApiKey: "",
+  TXApiKey: "7bc0a79ea6f18cfdf18f1ffacac47a11",
 
   // 用户列表 可配置多个用户
   user: [
@@ -23,7 +23,7 @@ const CONFIG = {
       // 男(女)朋友的名字（或昵称或网名）
       userName: "小沐沐吖",
       // 用户列表的`微信号`
-      userId: "",
+      userId: "os2d76Ib6JbNLg4S_VHsXl6YYAd4",
       // 星座
       star: "摩羯座",
       // 生日 - 格式：08-22
