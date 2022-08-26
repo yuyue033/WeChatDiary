@@ -1,3 +1,7 @@
+# 建议使用云函数版本
+
+> 地址：https://gitee.com/xiaomumuya/WeChatDiary
+
 # 微信日记V1.0版本
 
 >   英文名：`WeChatDiary`
