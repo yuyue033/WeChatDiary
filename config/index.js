@@ -53,11 +53,11 @@ const CONFIG = {
     // 土味情话
     saylove: true,
     // 健康小提示
-    healthtip: false,
+    healthtip: true,
     // 毒鸡汤
     duJiTang: true,
     // 早安心语
-    zaoAn: false,
+    zaoAn: true,
     // 晚安心语
     wanAn: true,
     // 彩虹屁
