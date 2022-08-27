@@ -55,9 +55,9 @@ const CONFIG = {
     // 健康小提示
     healthtip: true,
     // 毒鸡汤
-    duJiTang: false,
+    duJiTang: true,
     // 早安心语
-    zaoAn: false,
+    zaoAn: true,
     // 晚安心语
     wanAn: true,
     // 彩虹屁
