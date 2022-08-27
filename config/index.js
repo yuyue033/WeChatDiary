@@ -34,7 +34,7 @@ const CONFIG = {
   ],
 
   // 计划旅游日 - 格式：2022-08-20
-  tourism: "2022-08-30",
+  tourism: "2022-07-30",
 
   // 恋爱纪念日 - 格式：2022-05-20
   loveDay: "2022-05-20",
@@ -53,11 +53,11 @@ const CONFIG = {
     // 土味情话
     saylove: true,
     // 健康小提示
-    healthtip: true,
+    healthtip: false,
     // 毒鸡汤
     duJiTang: true,
     // 早安心语
-    zaoAn: true,
+    zaoAn: false,
     // 晚安心语
     wanAn: true,
     // 彩虹屁
